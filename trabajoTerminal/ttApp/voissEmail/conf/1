@@ -1,0 +1,5 @@
+[smtp]
+host = smtp.gmail.com
+port = 587
+from = cvsorter.contact@gmail.com
+password = cvsorter.
